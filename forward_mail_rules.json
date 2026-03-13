@@ -1,10 +1,6 @@
 [
   {
     "pre":"wangyingbo",
-    "forward":"xxx@gmail.com"
-  },
-  {
-    "pre":"jiajichao",
-    "forward":"yyy@gmail.com"
+    "forward":["wangyingbo0528@gmail.com"]
   }
 ]
